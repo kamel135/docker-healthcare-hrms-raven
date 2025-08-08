@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/payments",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/hrms.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/earthians/marley.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/The-Commit-Company/raven",
+    "branch": "develop"
+  }
+]
